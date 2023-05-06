@@ -9,7 +9,7 @@ Nothing is optimized, some dependencies are outdated.
 
 ## Prerequisites
 
-Configure you host file in order to add kafka name pointing to localhost
+Configure your host file in order to add kafka name pointing to localhost
 
 Open the file "c:/windows/system32/drivers/etc/hosts"
 
